@@ -1,1 +1,1 @@
-# Data-Structures-and-Algorithms-UCS
+# Data-Structures-and-Algorithms-UC San Diego
